@@ -1,6 +1,7 @@
 <h1 align="center">FINAL</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-> CHECK THE SOURCE CODE FROM LINKS IN "LINKS" SECTION
+
+> __CHECK THE SOURCE CODE FROM LINKS IN "LINKS" SECTION__
 
 ### <a name="road">ROADMAP</a>
   - #### [LINKS](#links)
