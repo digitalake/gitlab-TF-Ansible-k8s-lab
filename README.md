@@ -19,8 +19,7 @@
  - [GITLAB TERRAFORM REPO LINK](https://gitlab.com/gl-basecamp-final/terraform-infra)
  - [GITLAB KUBESPRAY REPO LINK](https://gitlab.com/gl-basecamp-final/ansible-kubespray)
  - [GITLAB HELM DEPLOY REPO LINK](https://gitlab.com/gl-basecamp-final/ansble-wordpress-deploy)
- - [WP INSTALL RESULT LINK](https://vantus.dns.army/)
-  
+ 
 ---
 
 
